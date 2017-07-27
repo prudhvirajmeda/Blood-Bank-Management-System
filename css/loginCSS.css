@@ -1,0 +1,21 @@
+.glyphicon{
+	font-size: 20px;
+	margin-top: 6px;
+	
+}
+body{
+	padding-left: 450px;
+	padding-right: 450px;
+	padding-top: 170px;
+}
+.outside{
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-style: none;
+	border-width: 1px;
+	background-color: #e6e6e6;
+	border-radius: none;
+	box-shadow: 0 0 10px gray;
+}
